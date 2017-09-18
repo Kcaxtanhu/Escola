@@ -1,0 +1,9 @@
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\obj\Debug\netstandard2.0\SYD.Escola.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\obj\Debug\netstandard2.0\SYD.Escola.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\obj\Debug\netstandard2.0\SYD.Escola.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\obj\Debug\netstandard2.0\SYD.Escola.Infrastructure.AssemblyInfo.cs
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\bin\Debug\netstandard2.0\SYD.Escola.Infrastructure.deps.json
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\bin\Debug\netstandard2.0\SYD.Escola.Infrastructure.dll
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\bin\Debug\netstandard2.0\SYD.Escola.Infrastructure.pdb
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\obj\Debug\netstandard2.0\SYD.Escola.Infrastructure.dll
+C:\Users\e000142\Documents\2. SYD\PROJECTOS\Escola\SYD.Escola.Infrastructure\obj\Debug\netstandard2.0\SYD.Escola.Infrastructure.pdb

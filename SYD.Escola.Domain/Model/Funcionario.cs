@@ -1,3 +1,5 @@
+using System;
+
 namespace SYD.Escola.Domain.Model
 {
     public class Funcionario
