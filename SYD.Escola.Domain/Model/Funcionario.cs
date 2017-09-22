@@ -8,6 +8,8 @@ namespace SYD.Escola.Domain.Model
         public string Nome { get; set; }
         public DateTime DataNascimento { get; set; }
         public DateTime DataIngresso { get; set; }
+        public int CategoriaId { get; set; }
+        public CategoriaFuncionario Categoria { get; set; }
         
     }
 }

@@ -1,6 +1,6 @@
 using System;
 
-namespace SYD.Escola.Infrastructure.Data
+namespace SYD.Escola.Domain.Repositories
 {
     public interface IRepository<T> where T : class
     {
