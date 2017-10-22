@@ -1,6 +1,6 @@
 using System;
 
-namespace SYD.Escola.Domain.Model
+namespace SYD.Escola.Domain.Model.Administracao
 {
     public class Funcionario
     {

@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace SYD.Escola.Domain.Model
+namespace SYD.Escola.Domain.Model.Pedagogica
 {
     public class Grau
     {

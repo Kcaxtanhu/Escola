@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace SYD.Escola.Domain.Model
+namespace SYD.Escola.Domain.Model.Pedagogica
 {
     public class Turma
     {
@@ -12,12 +12,12 @@ namespace SYD.Escola.Domain.Model
         public Turno Turno { get; set; }
         public int ClasseId { get; set; }
         public Classe Classe { get; set; }
-        public EstadoTurma Estado { get; set; }
+        // public EstadoTurma Estado { get; set; }
 
-        public enum EstadoTurma
-        {
-            ACTIVA = 1,
-            INACTIVA = 2
-        }
+        // public enum EstadoTurma
+        // {
+        //     ACTIVA = 1,
+        //     INACTIVA = 2
+        // }
     }
 }
